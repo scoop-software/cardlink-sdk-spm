@@ -10,8 +10,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ScoopCardlink",
-            url: "https://github.com/scoop-software/cardlink-sdk-spm/releases/download/v1.38.2/ScoopCardlink.xcframework.zip",
-            checksum: "2817d6675a8988037e6f71dc1b99ff8852e0943f71f9b3b21be4385752754f3b"
+            url: "https://github.com/scoop-software/cardlink-sdk-spm/releases/download/v1.39.0/ScoopCardlink.xcframework.zip",
+            checksum: "8718a20134e31b35c20d5c1bba2fdb716b83aada70ca1f5b78dccd6082ebf5f8"
         )
     ]
 )
